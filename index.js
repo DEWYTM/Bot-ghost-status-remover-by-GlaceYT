@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["⚽ Regarde l'horrible RC Golmon","🧻 Se lebron sur Carlos Poduzob"];
 
 
 let currentIndex = 0;
